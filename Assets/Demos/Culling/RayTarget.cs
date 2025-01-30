@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Culling
+namespace Demos.Culling
 {
     public class RayTarget : MonoBehaviour
     {

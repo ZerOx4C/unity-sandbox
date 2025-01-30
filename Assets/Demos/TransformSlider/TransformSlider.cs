@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TransformSlider
+namespace Demos.TransformSlider
 {
     [ExecuteAlways]
     public class TransformSlider : MonoBehaviour

@@ -1,8 +1,6 @@
-using System;
-using System.Threading;
 using UnityEngine;
 
-namespace DynamicMesh
+namespace Demos.DynamicMesh
 {
     [ExecuteAlways]
     [RequireComponent(typeof(MeshFilter))]

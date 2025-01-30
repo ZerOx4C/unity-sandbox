@@ -4,7 +4,7 @@ using UnityEngine;
 using VContainer;
 using VContainer.Unity;
 
-namespace CallAsync
+namespace Demos.CallAsync
 {
     public class CallAsyncLifetimeScope : LifetimeScope
     {

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.AI;
 
-namespace Culling
+namespace Demos.Culling
 {
     public class Player : MonoBehaviour
     {

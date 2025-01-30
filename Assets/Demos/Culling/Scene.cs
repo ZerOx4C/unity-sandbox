@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Culling
+namespace Demos.Culling
 {
     public class Scene : MonoBehaviour
     {
